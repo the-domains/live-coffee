@@ -1,0 +1,14 @@
+layout_spectrum: 0.9519792585633695
+typography_spectrum: 0.9425768025685102
+color:
+  brandStrength: 0.7253986713476479
+  lightness: 0.9972670983988792
+  saturation: 0.6786859382409602
+  rhythmicContrast: 0.8823286644183099
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: Live Coffee
